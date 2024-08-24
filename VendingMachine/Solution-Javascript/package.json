@@ -1,0 +1,20 @@
+{
+    "name": "vending-machine-js",
+    "description": "Example Vending Machine kata in Javascript",
+    "version": "1.0.0",
+    "scripts": {
+        "vend": "echo \"run here\"",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MobEverythingRegretNothing/pfg-kata-examples.git"
+    },
+    "keywords": ["Kata", "PFG", "VendingMachine"],
+    "author": "Charles Rathe",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/MobEverythingRegretNothing/pfg-kata-examples/issues"
+    },
+    "homepage": "https://github.com/MobEverythingRegretNothing/pfg-kata-examples"
+}
